@@ -1,0 +1,1 @@
+https://metric-store.sausvtc01.pcf.dell.com/api/v1/query_range?query=cpu{source_id='67d6fa95-20fe-4523-8ef4-e7b99747b9ec'}&start=1659004925.238&end=1659008525.239&step=60
